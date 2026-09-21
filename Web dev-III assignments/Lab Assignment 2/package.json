@@ -1,0 +1,21 @@
+{
+    "name": "lab-assignment-2",
+    "version": "1.0.0",
+    "description": "Student Management REST API using Node.js and Express.js",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "rest-api",
+        "student-management"
+    ],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
